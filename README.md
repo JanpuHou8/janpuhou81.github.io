@@ -1,1 +1,1 @@
-# janpuhou8.github.io
+# Webpage for Janpu Hou, a Machine Learning mentor
